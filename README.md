@@ -69,10 +69,10 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: g594@hotmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/tonderflash/tonderflash/issues)
+✌️ &emsp; Hey there! I'm Israel, a passionate programmer who enjoys creating software and sharing my knowledge with the world. Coding is not just my profession; it's my passion, and I'm always excited to embark on new coding adventures.<br/><br/>
+ ❤️ &emsp; I have a deep love for writing code and exploring the latest technologies and features. Whether it's web development, mobile apps, or anything in between, I'm constantly expanding my skill set and embracing new challenges.<br/><br/>
+ 📧 &emsp; Feel free to get in touch with me anytime via email at [g594@hotmail.com](mailto:g594@hotmail.com). Whether you want to collaborate on a project, discuss coding, or just have a friendly chat, I'm always just an email away!<br/><br/>
+ 💬 &emsp; If you have any questions or want to discuss anything related to programming, don't hesitate to reach out to me on [GitHub](https://github.com/tonderflash/tonderflash/issues). I'm here to help and share knowledge with fellow developers and enthusiasts.
 
 </p>
 <p align="left">
