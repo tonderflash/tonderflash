@@ -28,14 +28,8 @@ Developer with experience in creating modern web applications and efficient soft
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-20232A?style=flat-square&logo=shieldx&logoColor=white" alt="Cybersecurity"/>
 </p>
-
-### Frontend
-
-- React, Angular, Vue.js
-- JavaScript, TypeScript
-- HTML5, CSS3, SASS
-- UI/UX Design
 
 ### Backend
 
@@ -49,7 +43,15 @@ Developer with experience in creating modern web applications and efficient soft
 - Git, GitHub Actions
 - Docker
 - AWS, DigitalOcean
+- Terraform
 - Agile Methodologies
+
+### Cybersecurity
+
+- Network traffic analysis
+- Binary analysis tools
+- System monitoring utilities
+- Security debugging
 
 ## 📊 GitHub Stats
 
@@ -81,6 +83,8 @@ A practical utility for developers to reclaim disk space by cleaning up old `nod
 Passionate developer with a strong focus on technological innovation. I enjoy solving complex problems and creating software that generates value. Constantly learning new technologies and methodologies to improve my skills.
 
 💡 I specialize in full stack web development with a particular interest in creating intuitive and efficient user experiences.
+
+🛡️ I'm enthusiastic about developing cybersecurity tools that help identify vulnerabilities and improve system defenses. ShadowTrace is an example of my work in this field.
 
 🌱 I'm currently expanding my knowledge in Rust programming and exploring low-code development platforms to optimize development workflows.
 
