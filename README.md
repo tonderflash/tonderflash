@@ -17,7 +17,7 @@
 const israel = {
   profession: "Full Stack Developer",
   focus: "Creating innovative digital solutions",
-  passion: "Cybersecurity tools & efficient software",
+  passion: "Research how things work better to make efficient software.",
   approach: "Clean code, best practices, continuous learning",
 };
 ```
