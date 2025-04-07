@@ -1,86 +1,101 @@
-<h1 align="center">Hello, I'm Israel A.K.A tonderflash <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" alt="Smiling Face with Smiling Eyes" width="80" /></h1>
+<h1 align="center">Israel García | tonderflash</h1>
 
 <p align="center">
-  🌟 Welcome to my GitHub profile!!! 🌟
+  <strong>Full Stack Developer | Passionate about creating innovative digital solutions</strong>
 </p>
 
-<div align="center">
-
-![Visitors](https://komarev.com/ghpvc/?username=tonderflash&color=brightgreen)
 <p align="center">
- <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="100">
- <a href="https://tonderflash.tech" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
- </a>
-
-  
-
-
- <a href="https://www.linkedin.com/in/israel-garcia-5a02131bb/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
- </a>
- <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+  <a href="https://tonderflash.tech" target="_blank"><img src="https://img.shields.io/badge/Website-tonderflash.tech-1f425f?style=flat-square&logo=globe" alt="Website"/></a>
+  <a href="https://www.linkedin.com/in/israel-garcia-5a02131bb/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Israel_García-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="mailto:g594@hotmail.com"><img src="https://img.shields.io/badge/Email-g594@hotmail.com-D14836?style=flat-square&logo=gmail" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=tonderflash&style=flat-square&color=blue" alt="Visitors"/>
 </p>
-</div>
 
-
-<br/>
 <hr/>
-<br/>
 
+## 💼 Professional Profile
+
+Developer with experience in creating modern web applications and efficient software solutions. Committed to clean code and best development practices. I constantly seek to expand my knowledge and skills to deliver high-quality technology solutions.
+
+## 🛠️ Technologies & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+### Frontend
+
+- React, Angular, Vue.js
+- JavaScript, TypeScript
+- HTML5, CSS3, SASS
+- UI/UX Design
+
+### Backend
+
+- Node.js, Express
+- Python, Django
+- RESTful APIs
+- SQL, NoSQL Databases
+
+### DevOps & Tools
+
+- Git, GitHub Actions
+- Docker
+- AWS, DigitalOcean
+- Agile Methodologies
+
+## 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/tonderflash">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tonderflash&theme=radical" alt="israel's GitHub Contribution"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=tonderflash&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/tonderflash">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonderflash&theme=radical&hide_border=true" width="48%" alt="GitHub Streak"/>
   </a>
 </p>
 
-<a> 
-    <a href="https://github.com/alsiam"><img alt="israel's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=tonderflash&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/tonderflash"><img alt="tonderflash's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=tonderflash&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
+## 🚀 Featured Projects
 
+### [ShadowTrace](https://github.com/tonderflash/shadowtrace)
 
-![israel's Graph](https://github-readme-activity-graph.vercel.app/graph?username=tonderflash&custom_title=israel%20's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+An AI-powered black box debugger that analyzes processes, files, and network connections in real-time. ShadowTrace generates explanatory reports using language models (LLM), allowing users to understand the behavior of opaque binaries without accessing the original source code. Built with interceptors for system processes, file monitoring, and network connection detection.
 
-<!-- Introducción  -->
-<h3 align="center">
-  <samp>
-    <b><a target="_blank" href="https://tonderflash.tech"></a></b>
-  </samp>
-</h3>
+### [npm-watchdog](https://github.com/tonderflash/npm-watchdog)
+
+A cross-platform command-line tool for detecting unused dependencies in JavaScript/TypeScript projects. npm-watchdog analyzes source files (.js, .jsx, .ts, .tsx) and identifies packages listed in package.json that aren't being used in the code. Features a modern and stylish UI and works seamlessly across Windows, macOS, and Linux.
+
+### [Developer Cleaner](https://github.com/tonderflash/developer-cleaner)
+
+A practical utility for developers to reclaim disk space by cleaning up old `node_modules` directories. This command-line tool helps identify and remove unused node_modules folders by filtering directories based on modification year. It includes features like directory size display and an interactive interface with safety confirmations before deletion.
+
+## 👨‍💻 About Me
+
+Passionate developer with a strong focus on technological innovation. I enjoy solving complex problems and creating software that generates value. Constantly learning new technologies and methodologies to improve my skills.
+
+💡 I specialize in full stack web development with a particular interest in creating intuitive and efficient user experiences.
+
+🌱 I'm currently expanding my knowledge in Rust programming and exploring low-code development platforms to optimize development workflows.
+
+🔍 While I enjoy writing code from scratch, I also appreciate the efficiency and rapid development that low-code platforms offer for certain use cases.
+
+## 📫 Contact Me
+
+If you're interested in collaborating on projects, have technical questions, or want to connect professionally:
+
+- 📧 Email: [g594@hotmail.com](mailto:g594@hotmail.com)
+- 🔗 LinkedIn: [Israel García](https://www.linkedin.com/in/israel-garcia-5a02131bb/)
+- 🌐 Website: [tonderflash.tech](https://tonderflash.tech)
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="130">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="130">
+  <a href="https://github.com/tonderflash?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Repositories-2962FF?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories"/>
+  </a>
 </p>
-<br><br>
-
-
-
-
-
-<br />
-
-<!-- About Section -->
- # About me
- 
-<p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
-✌️ &emsp;Hey there! I'm Israel, a passionate programmer who enjoys creating software and sharing my knowledge with the world. Coding is not just my profession; it's my passion, and I'm always excited to embark on new coding adventures.<br/><br/>
- ❤️ &emsp;I have a deep love for writing code and exploring the latest technologies and features. Whether it's web development, mobile apps, or anything in between, I'm constantly expanding my skill set and embracing new challenges.<br/><br/>
- 📧 &emsp; Feel free to get in touch with me anytime via email at [g594@hotmail.com](mailto:g594@hotmail.com). Whether you want to collaborate on a project, discuss coding, or just have a friendly chat, I'm always just an email away!<br/><br/>
- 💬 &emsp; If you have any questions or want to discuss anything related to programming, don't hesitate to reach out to me on [GitHub](https://github.com/tonderflash/tonderflash/issues). I'm here to help and share knowledge with fellow developers and enthusiasts.
-
-</p>
-<p align="left">
-  <a href="https://github.com/tonderflash?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-<br/>
-<br/>
-<br/>
-
-
-
